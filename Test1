@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Décisions relatives à la distribution - Tondeuse Solaire</title>
+<style>
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+  }
+  h1 {
+    color: #2a7a2a;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  section {
+    max-width: 900px;
+    margin: 0 auto 40px auto;
+    background: #fff;
+    padding: 30px 40px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 8px;
+  }
+  h2 {
+    color: #1a5d1a;
+    margin-top: 0;
+  }
+  ul {
+    list-style: disc inside;
+    margin-left: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  th, td {
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  th {
+    background-color: #e2f0e2;
+    color: #2a7a2a;
+  }
+  footer {
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+    margin-top: 50px;
+  }
+</style>
+</head>
+<body>
+
+<h1>Décisions relatives à la distribution</h1>
+
+<section>
+  <h2>1. Intensité de la distribution</h2>
+  <ul>
+    <li>Distribution <strong>sélective</strong> : produit technique et dispendieux</li>
+    <li>Vente via magasins spécialisés (jardinage, outils haut de gamme)</li>
+    <li>Permet un meilleur accompagnement client et une meilleure image de marque</li>
+  </ul>
+</section>
+
+<section>
+  <h2>2. Choix des canaux de distribution</h2>
+  <p><strong>Définition :</strong> Canal de distribution = intermédiaires entre fabricant et client.</p>
+  <p><strong>Stratégie omnicanal proposée :</strong></p>
+  <ul>
+    <li>Magasins spécialisés (physique)</li>
+    <li>Grandes surfaces ciblées (ex : RONA, Canadian Tire, Home Depot)</li>
+    <li>Site web officiel : service client, démonstration vidéo, FAQ, accessoires</li>
+  </ul>
+  <p><strong>Avantages :</strong></p>
+  <ul>
+    <li>Réduction des risques grâce à la diversification des points de contact</li>
+    <li>Démonstration du produit possible pour rassurer les clients</li>
+    <li>Uniformité du branding, des prix et du service client</li>
+    <li>Support personnalisé, essentiel pour un produit innovant</li>
+    <li>Gain en visibilité dans un marché encore peu occupé</li>
+  </ul>
+</section>
+
+<section>
+  <h2>3. Analyse du marché actuel au Québec</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Enseigne</th>
+        <th>Type de tondeuse disponible</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Canadian Tire</td>
+        <td>Tondeuses électriques (non autonomes)</td>
+      </tr>
+      <tr>
+        <td>RONA</td>
+        <td>Tondeuses électriques classiques</td>
+      </tr>
+      <tr>
+        <td>Home Depot Canada</td>
+        <td>Tondeuses manuelles et électriques</td>
+      </tr>
+      <tr>
+        <td>Husqvarna (en ligne)</td>
+        <td>Robots-tondeuses via site officiel</td>
+      </tr>
+    </tbody>
+  </table>
+  <p><strong>Conclusion :</strong> Très peu d’options pour les tondeuses autonomes en magasin au Québec → opportunité claire de se positionner rapidement.</p>
+</section>
+
+<footer>
+  &copy; 2025 Nate - Projet Tondeuse Solaire
+</footer>
+
+</body>
+</html>
